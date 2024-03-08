@@ -1,0 +1,13 @@
+{
+  "name": "AccountService",
+  "version": "1.0.0",
+  "description": "An example Account microservice with REST API",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "scripts": {
+  },
+  "author": "Nick Snyder",
+  "license": "MIT"
+}
