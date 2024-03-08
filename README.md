@@ -16,4 +16,4 @@ To use this project you must have Node.js installed. Development was completed u
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
