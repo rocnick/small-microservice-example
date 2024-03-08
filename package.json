@@ -1,5 +1,5 @@
 {
-  "name": "AccountService",
+  "name": "accountservice",
   "version": "1.0.0",
   "description": "An example Account microservice with REST API",
   "main": "app.js",
