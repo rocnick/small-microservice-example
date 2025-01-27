@@ -5,7 +5,7 @@ This project serves as a small academic example of the beginning approaches to b
 
 ## Requirements
 
-To use this project you must have Node.js installed. Development was completed using node engine 18.16.0 and express 4.18.3.
+To use this project you must have Node.js installed. Development was completed using node engine 20.13.1 and express 4.18.3.
 
 ### To run:
 ```bash
