@@ -3,6 +3,7 @@ const port = 4201;
 
 const accountService = require('./accountService');
 
+// This is the route to the Account Service being defined.
 app.use('/', accountService);
 
 // This defines a health check point for AWS
